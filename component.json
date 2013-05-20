@@ -9,9 +9,9 @@
     "switches/images/check/default",
     "switches/images/radio/danger.png",
     "switches/images/radio/default.png",
-    "switches/images/switch/background",
-    "switches/images/switch/handler",
-    "switches/images/switch/icon"
+    "switches/images/switch/background.png",
+    "switches/images/switch/handler.png",
+    "switches/images/switch/icon.png"
   ],
   "styles": [
     "switches.css"
