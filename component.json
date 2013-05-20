@@ -1,0 +1,19 @@
+{
+  "name": "ffosbb-switches",
+  "repo": "namjul/ffosbb-switches",
+  "description": "Firefox OS Building Blocks switches component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "images": [
+    "switches/images/check/danger.png",
+    "switches/images/check/default",
+    "switches/images/radio/danger.png",
+    "switches/images/radio/default.png",
+    "switches/images/switch/background",
+    "switches/images/switch/handler",
+    "switches/images/switch/icon"
+  ],
+  "styles": [
+    "switches.css"
+  ]
+}
